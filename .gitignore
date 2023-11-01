@@ -2,4 +2,4 @@
 *.log
 /Pipfile
 /Pipfile.lock
-**/_pycache_/
+**/__pycache__/
